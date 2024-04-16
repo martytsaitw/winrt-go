@@ -11,8 +11,8 @@ import (
 	"unsafe"
 
 	"github.com/go-ole/go-ole"
-	"github.com/saltosystems/winrt-go/internal/delegate"
-	"github.com/saltosystems/winrt-go/internal/kernel32"
+	"github.com/martytsaitw/winrt-go/internal/delegate"
+	"github.com/martytsaitw/winrt-go/internal/kernel32"
 )
 
 const GUIDAsyncOperationCompletedHandler string = "fcdcf02c-e5d8-4478-915a-4d90b74b83a5"

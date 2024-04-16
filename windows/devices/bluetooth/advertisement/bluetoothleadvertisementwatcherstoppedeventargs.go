@@ -10,7 +10,7 @@ import (
 	"unsafe"
 
 	"github.com/go-ole/go-ole"
-	"github.com/saltosystems/winrt-go/windows/devices/bluetooth"
+	"github.com/martytsaitw/winrt-go/windows/devices/bluetooth"
 )
 
 const SignatureBluetoothLEAdvertisementWatcherStoppedEventArgs string = "rc(Windows.Devices.Bluetooth.Advertisement.BluetoothLEAdvertisementWatcherStoppedEventArgs;{dd40f84d-e7b9-43e3-9c04-0685d085fd8c})"

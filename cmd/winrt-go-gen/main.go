@@ -7,8 +7,8 @@ import (
 
 	"github.com/go-kit/log"
 	"github.com/go-kit/log/level"
+	"github.com/martytsaitw/winrt-go/internal/cli"
 	"github.com/peterbourgon/ff/v3"
-	"github.com/saltosystems/winrt-go/internal/cli"
 )
 
 func main() {

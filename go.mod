@@ -1,4 +1,4 @@
-module github.com/saltosystems/winrt-go
+module github.com/martytsaitw/winrt-go
 
 go 1.18
 
